@@ -33,6 +33,3 @@ To help you along, here are a couple of links on smartphone photography.
 [tgdaily](http://www.tgdaily.com/mobility-brief/80077-smartphone-photography-a-guide-for-taking-amazing-photos)
 
 Don't over do it with the apps and filters it should not be about the effects but about the image.
-
-
-> Written with [StackEdit](https://stackedit.io/).
