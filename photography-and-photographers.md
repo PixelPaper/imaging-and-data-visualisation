@@ -33,3 +33,49 @@ To help you along, here are a couple of links on smartphone photography.
 [tgdaily](http://www.tgdaily.com/mobility-brief/80077-smartphone-photography-a-guide-for-taking-amazing-photos)
 
 Don't over do it with the apps and filters it should not be about the effects but about the image.
+
+#Harmony and Proportion
+
+To follow up on a question I received recently. It was regarding using Instagram as the method of delivery. NO. 
+
+**I do not want to see Instagram used as the final method of delivery and image creation (filters) for your final 12 images.** You could use Instagram as a means to show some experimental material but nothing more.
+
+Richard's talk this week looked at Harmony and Proportion in photography. During his talk Richard covered a number of inspiring, creative individuals.
+
+Material on Henri Cartier-Bresson can be found at:
+
+- [Foundation Henri Cartier-Bresson](http://www.henricartierbresson.org/index_en.ht)
+- [Magnum Photos](http://www.magnumphotos.com/C.aspx?VP3=CMS3&VF=MAGO31_10_VForm&ERID=24KL53ZMYN)
+- [10 Things Henri Cartier-Bresson Can Teach You About Street Photography](http://erickimphotography.com/blog/2011/08/22/10-things-henri-cartier-bresson-can-teach-you-about-street-photography)
+
+We looked at [Aleksandr Rodchenko](http://aleksandrodchenko.wordpress.com) and the Constructivists last semester but it is always worthwhile reviewing them again. As I have mentioned before, and will continue to do so, a solid understanding of design (and art) history will go a long, long way to enrich you as a designer. YOu can find some of his photographs on [Photoforager](http://www.photoforager.com/archives/alexander-rodchenko).
+
+[Richard Feynman](http://www.feynman.com) He wrote an excellent book [Surely You're Joking Mr Feynman](http://www.amazon.co.uk/gp/product/009917331X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=009917331X&linkCode=as2&tag=activeight-21)
+
+We looked briefly at James Webb Young's [A Technique for Producing Ideas](http://www.amazon.co.uk/gp/product/0071410945/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0071410945&linkCode=as2&tag=activeight-21) last year, it's a very valuable read and costing less than the price of a pint you would be foolish not to get it. 
+
+As Richard said it is a little dated, he looks at advertising as the focus for his ideas, but the messages can be applied to any creative process and if adhered to will remain with you for life. 
+
+You can find Richard's work and words on:
+
+- [Ace Jet 170 Blog](http://acejet170.typepad.com)
+- [Flickr](http://www.flickr.com/photos/acejet170)
+- [Instagram](http://instagram.com/acejet170)
+
+###Preparing images for screen and web
+
+This piece from Six Revisions [The Comprehensive Guide to Saving Images for the Web](http://sixrevisions.com/web_design/comprehensive-guide-saving-images-for-web/) will take you through the necessary steps to ensure your images are properly prepared for presentation on the web.
+
+Photoshop isn't the final step in this process. You can use a number of online tools and apps that will reduce your file size further making sure you website is as lean as possible.
+
+- [JPEGmini](http://www.jpegmini.com)
+- [ImageAlpha](http://pngmini.com)
+- [Mass Image Compressor](http://icompressor.blogspot.co.uk/2008/11/introduction-to-hassle-free-image.html)
+- [Smuch.it](http://www.smushit.com/ysmush.it)
+- [TinyPNG](https://tinypng.com)
+
+###Week 02 Research
+
+This week you should consider looking at some of the different file formats we covered during the lecture and try saving one of your own images to see how small you can make it without losing too much quality. 
+
+Place these on your Design Journal side-by-side and talk through the differences. Taking the results into some of the online compression services will allow you to create smaller files, try a few to see which works best and add the results to your Journal.
