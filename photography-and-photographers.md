@@ -17,8 +17,6 @@ There are obviously other sources which you should (or rather must) research. Th
 [Magnum Photos](http://www.magnumphotos.com)
 
 
-
-
 Here is a link to National Geographic Photo Director’s, [David Griffin](http://www.ted.com/talks/david_griffin_on_how_photography_connects.html) talk on the narrative of images. **If you didn’t turn up to Friday’s lecture you should watch it.**
 
 As shown during Friday’s lecture, [Chris Jordan](http://www.chrisjordan.com) is more artist than photographer. Jordan uses photographs to create stunning images from common statistics to deliver political and environmental messages. Jordan's ten minute talk on [Ted Talk's](http://www.ted.com/talks/chris_jordan_pictures_some_shocking_stats.html) is well worth checking out.
