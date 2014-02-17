@@ -139,3 +139,10 @@ The ability to record moments in time is now easier than ever, we can shoot stil
 [15]:http://beta.instareel.it
 [16]:http://melissakeizer.com
 
+###Week 03 Research
+
+Review your photographs and reshoot any you feel don't fit the brief. You may use Photoshop or Lightroom or any other preferred photo editing tool to tidy up your images. Do not over do it, these tools should only be used to crop your images if necessary, adjust the exposure, brightness and contrast and if necessary add or remove a little saturation. There are numerous Photoshop tutorials online these [Photoshop essentials][18] may be useful.
+
+If you haven't tried Instagram or Hipstamatic give them a go and post the results on your Design Journal.
+
+[19]:http://www.photoshopessentials.com/photo-editing
