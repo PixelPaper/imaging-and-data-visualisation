@@ -106,9 +106,13 @@ Scottish electronic music duo [Boards of Canada][4] used filtered images to evok
 
 Their visual approach matches their music beautifully where snippits of 1970s media are layered with analogue and electronic instruments creating a warm timeless nostalgia.
 
-In contrast 
+In contrast [Tom Waits][5] has developed a visual persona that matches the gravelly voice and musical themes of degradation and dereliction. [Matt Mahurin's][6] photographs for Waits' [Mule Variations][7] album matches the music beautifully. The sepia-toned grainy images are reminiscent of portraits from the earliest days of photography while videos such as this one for [Hold On][8] takes the style into the moving image.
 
 [4]:http://boardsofcanada.com
+[5]:http://www.tomwaits.com
+[6]:http://www.mattmahurin.com
+[7]:http://en.wikipedia.org/wiki/Mule_Variations
+[8]:http://www.youtube.com/watch?v=0P5jV4lHHR0
 
 
 ###Possible resources
