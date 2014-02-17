@@ -81,32 +81,33 @@ Place these on your Design Journal side-by-side and talk through the differences
 
 #Manufactured Fictions in the Age of Instagram
 
-Looking at how smartphone photography has changed photography and how the likes of Instagram and Hipstamatic is affecting narratives.
-
 >"We shape our tools and there after our tools shape us."
 
-This quote from Marshall McLuan is now more relevant than ever. Mobile technology is everywhere, the man (or woman) on the street have become photographers, journalists, film makers, all thanks to the incredible technology we carry with us.
+This quote from Marshall McLuan is now more relevant than ever. Mobile technology is everywhere, anyone with a smartphone street can become photographers, [journalists,][13] cinematographers, all thanks to the incredible technology we carry with us.
 
-Everyone's an expert, or so some think they are. Flickr user André Rabelo submitted Henri Cartier-Bresson's world famous photograph Hyeres, France 1932 to the Flickr group pool [Delete Me][1]. The group reviews submitted photographs decding whether they are good enough to stay on the site. Cartier-Bresson's timeless classic was deleted very quickly. 
+Everyone is an expert, or so some think. In 2006 Flickr user [André Rabelo][17] submitted Henri Cartier-Bresson's world famous photograph, [Hyeres, France; 1932][18] to the Flickr group pool [Delete Me][1]. The group reviews submitted photographs decding whether they are good enough to stay on the site. Cartier-Bresson's timeless classic was deleted very quickly. 
 
 This goes to prove that you shouldn't place too much emphasis on feedback from people who obviously don't know what they are talking about!
 
 [1]:http://petapixel.com/2011/07/13/why-you-shouldnt-give-too-much-weight-to-anonymous-online-critics
+[13]:http://gizmodo.com/5853582/how-to-be-a-citizen-journalist-without-getting-killed
+[17]:https://www.flickr.com/photos/andrerabelo
+[18]:http://iconicphotos.wordpress.com/2010/10/21/hyeres-cartier-bresson/
 
 ####The Nostalgia of Now
 
-The age of the film camera is more-or-less behind us with single function digital cameras now not far behind. The age of smartphone photography is well and truly here with apps such as [Hipstamatic][2] and [Instagram][3] helping turn the mediocre into the sublime.
+The age of the film camera is more-or-less behind us with single function, digital camera, now not far behind. The age of smartphone photography is well and truly here with apps such as [Hipstamatic][2] and [Instagram][3] helping turn the mediocre into the sublime.
 
 [2]:http://hipstamatic.com
 [3]:http://instagram.com
 
 With a multitude of filtered effects these apps, and similar others, allow us to make photographs taken today look as if they were shot decades ago. The effects can help create moods and atmospheres, developing personalities and creating a visual brand for individuals and groups. 
 
-Scottish electronic music duo [Boards of Canada][4] used filtered images to evoke images of hazy summer days, colours are bleached or saturated, blurred or tinted giving the impression they were shot decades ago and left in a dusty drawer to degrade gracefully.
+Scottish electronic music duo [Boards of Canada][4] used filtered images to evoke memories of hazy summer days. Colours are bleached or saturated, blurred or tinted, giving the impression they were shot decades ago, left in a dusty drawer to gracefully degrade.
 
-Their visual approach matches their music beautifully where snippits of 1970s media are layered with analogue and electronic instruments creating a warm timeless nostalgia.
+Their visual approach matches the music beautifully, snippits of 1970s media are layered with analogue and electronic instruments creating a warm timeless nostalgic wash of sound.
 
-In contrast [Tom Waits][5] has developed a visual persona that matches the gravelly voice and musical themes of degradation and dereliction. [Matt Mahurin's][6] photographs for Waits' [Mule Variations][7] album matches the music beautifully. The sepia-toned grainy images are reminiscent of portraits from the earliest days of photography while videos such as this one for [Hold On][8] takes the style into the world of the moving image.
+In contrast [Tom Waits][5] has developed a visual persona that matches his gravelly voice and musical themes of degradation and dereliction. [Matt Mahurin's][6] photographs for Waits' [Mule Variations][7] album matches the music beautifully. The sepia-toned grainy images are reminiscent of portraits from the earliest days of photography while videos such as this for [Hold On][8] takes the style into the world of the moving image.
 
 
 [4]:http://boardsofcanada.com
@@ -117,14 +118,24 @@ In contrast [Tom Waits][5] has developed a visual persona that matches the grave
 
 ####Beyond the screen
 
-Spartphone photography is finding its way increasingly into mainstream media. [Nick Laham's][9] photographs of the [New York Yankees][10] can be licensed from [Getty Images.][11] 
+Spartphone photography is finding its way increasingly into mainstream media. [Nick Laham's][9] Instagram iPhone photographs of the [New York Yankees][10] can now be licensed from [Getty Images.][11] 
 
-When on location in  Afghanistan, New York Times staff photographer [Damon Winter][12] used his iPhone to capture images of American troops
+When on location in Afghanistan, New York Times staff photographer [Damon Winter][12] used his iPhone to capture images of American troops.
 
+>“Composing with the iPhone is more casual and less deliberate, and the soldiers often take photos of each other with their phones, so they were more comfortable than if I had my regular camera.”
+
+The grainy, colour saturated effects added by Hipstamatic's filters bring a reality to the images no DSLR could hope to achieve.
+
+The ability to record moments in time is now easier than ever, we can shoot stills or HD video and instantly share them with the rest of the world. While Instagram seeks to reach the masses for the quick gratification of seeing your image liked by complete strangers, other sites such as [Pictory][14] ask us to look a little more closely at, often the very personal story behind the image. 
+
+[Instareel][15] from IMD graduate [Melissa Keizer][16] seeks to take Instagram one step further and encourages us to tell the story behind the image.
 
 
 [9]:http://www.nicklaham.com
 [10]:http://www.nicklaham.com/blog/?p=630
 [11]:http://www.gettyimages.co.uk/Search/Search.aspx?contractUrl=2&language=en-GB&family=editorial&p=yankees+iphone&assetType=image
-[12]:
+[12]:http://lens.blogs.nytimes.com/2011/02/11/through-my-eye-not-hipstamatics/?_php=true&_type=blogs&_r=0
+[14]:http://www.pictorymag.com/showcases/life-before-your-eyes
+[15]:http://beta.instareel.it
+[16]:http://melissakeizer.com
 
