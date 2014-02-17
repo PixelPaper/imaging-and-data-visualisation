@@ -106,7 +106,8 @@ Scottish electronic music duo [Boards of Canada][4] used filtered images to evok
 
 Their visual approach matches their music beautifully where snippits of 1970s media are layered with analogue and electronic instruments creating a warm timeless nostalgia.
 
-In contrast [Tom Waits][5] has developed a visual persona that matches the gravelly voice and musical themes of degradation and dereliction. [Matt Mahurin's][6] photographs for Waits' [Mule Variations][7] album matches the music beautifully. The sepia-toned grainy images are reminiscent of portraits from the earliest days of photography while videos such as this one for [Hold On][8] takes the style into the moving image.
+In contrast [Tom Waits][5] has developed a visual persona that matches the gravelly voice and musical themes of degradation and dereliction. [Matt Mahurin's][6] photographs for Waits' [Mule Variations][7] album matches the music beautifully. The sepia-toned grainy images are reminiscent of portraits from the earliest days of photography while videos such as this one for [Hold On][8] takes the style into the world of the moving image.
+
 
 [4]:http://boardsofcanada.com
 [5]:http://www.tomwaits.com
@@ -114,15 +115,16 @@ In contrast [Tom Waits][5] has developed a visual persona that matches the grave
 [7]:http://en.wikipedia.org/wiki/Mule_Variations
 [8]:http://www.youtube.com/watch?v=0P5jV4lHHR0
 
+####Beyond the screen
 
-###Possible resources
+Spartphone photography is finding its way increasingly into mainstream media. [Nick Laham's][9] photographs of the [New York Yankees][10] can be licensed from [Getty Images.][11] 
 
-http://www.mosaicarchive.com/2013/11/05/how-mobile-technology-is-changing-photography
+When on location in  Afghanistan, New York Times staff photographer [Damon Winter][12] used his iPhone to capture images of American troops
 
-http://www.buzzfeed.com/lukelewis/if-instagram-had-been-invented-in-the-80s
 
-http://www.buzzfeed.com/ailbhemalone/someone-has-been-putting-real-life-instagram-filters-all-ove
 
-http://www.buzzfeed.com/petrusich/instagram-the-nostalgia-of-now-and-reckoning-the
+[9]:http://www.nicklaham.com
+[10]:http://www.nicklaham.com/blog/?p=630
+[11]:http://www.gettyimages.co.uk/Search/Search.aspx?contractUrl=2&language=en-GB&family=editorial&p=yankees+iphone&assetType=image
+[12]:
 
-http://www.buzzfeed.com/jwherrman/instagram-reversing-filter-works-on-actual-old-pho
