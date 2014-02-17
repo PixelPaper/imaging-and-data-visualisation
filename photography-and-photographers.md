@@ -77,3 +77,45 @@ Photoshop isn't the final step in this process. You can use a number of online t
 This week you should consider looking at some of the different file formats we covered during the lecture and try saving one of your own images to see how small you can make it without losing too much quality. 
 
 Place these on your Design Journal side-by-side and talk through the differences. Taking the results into some of the online compression services will allow you to create smaller files, try a few to see which works best and add the results to your Journal.
+
+#Manufactured Fictions in the Age of Instagram
+
+Looking at how smartphone photography has changed photography and how the likes of Instagram and Hipstamatic is affecting narratives.
+
+>"We shape our tools and there after our tools shape us."
+
+This quote from Marshall McLuan is now more relevant than ever. Mobile technology is everywhere, the man (or woman) on the street have become photographers, journalists, film makers, all thanks to the incredible technology we carry with us.
+
+Everyone's an expert, or so some think they are. Flickr user André Rabelo submitted Henri Cartier-Bresson's world famous photograph Hyeres, France 1932 to the Flickr group pool [Delete Me][1]. The group reviews submitted photographs decding whether they are good enough to stay on the site. Cartier-Bresson's timeless classic was deleted very quickly. 
+
+This goes to prove that you shouldn't place too much emphasis on feedback from people who obviously don't know what they are talking about!
+
+[1]:http://petapixel.com/2011/07/13/why-you-shouldnt-give-too-much-weight-to-anonymous-online-critics
+
+####The Nostalgia of Now
+
+The age of the film camera is more-or-less behind with digital cameras now not too far behind. The age of smartphone photography is well and truly here with apps such as [Hipstamatic][2] and [Instagram][3] helping turn the mediocre into the sublime.
+
+[2]:http://hipstamatic.com
+[3]:http://instagram.com
+
+With a multitude of filtered effects these apps, and similar others, allow us to make photographs taken today look as if they were shot decades ago. The effects can help create moods and atmospheres, developing personalities and creating a visual brand for individuals and groups. 
+
+Scottish electronic music duo [Boards of Canada][4] used filtered images to evoke images of hazy summer days, colours are bleached or saturated, blurred or tinted giving the impression they were shot decades ago and left in a dusty drawer to decrade gracefully.
+
+Their visual approach matches their music beautifully where snippits of 1970s media are layered with analogue and electronic instruments creating a warm timeless nostalgia.
+
+[4]:http://boardsofcanada.com
+
+
+###Possible resources
+
+http://www.mosaicarchive.com/2013/11/05/how-mobile-technology-is-changing-photography
+
+http://www.buzzfeed.com/lukelewis/if-instagram-had-been-invented-in-the-80s
+
+http://www.buzzfeed.com/ailbhemalone/someone-has-been-putting-real-life-instagram-filters-all-ove
+
+http://www.buzzfeed.com/petrusich/instagram-the-nostalgia-of-now-and-reckoning-the
+
+http://www.buzzfeed.com/jwherrman/instagram-reversing-filter-works-on-actual-old-pho
