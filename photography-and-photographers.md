@@ -78,6 +78,7 @@ This week you should consider looking at some of the different file formats we c
 
 Place these on your Design Journal side-by-side and talk through the differences. Taking the results into some of the online compression services will allow you to create smaller files, try a few to see which works best and add the results to your Journal.
 
+
 #Manufactured Fictions in the Age of Instagram
 
 Looking at how smartphone photography has changed photography and how the likes of Instagram and Hipstamatic is affecting narratives.
@@ -94,16 +95,18 @@ This goes to prove that you shouldn't place too much emphasis on feedback from p
 
 ####The Nostalgia of Now
 
-The age of the film camera is more-or-less behind with digital cameras now not too far behind. The age of smartphone photography is well and truly here with apps such as [Hipstamatic][2] and [Instagram][3] helping turn the mediocre into the sublime.
+The age of the film camera is more-or-less behind us with single function digital cameras now not far behind. The age of smartphone photography is well and truly here with apps such as [Hipstamatic][2] and [Instagram][3] helping turn the mediocre into the sublime.
 
 [2]:http://hipstamatic.com
 [3]:http://instagram.com
 
 With a multitude of filtered effects these apps, and similar others, allow us to make photographs taken today look as if they were shot decades ago. The effects can help create moods and atmospheres, developing personalities and creating a visual brand for individuals and groups. 
 
-Scottish electronic music duo [Boards of Canada][4] used filtered images to evoke images of hazy summer days, colours are bleached or saturated, blurred or tinted giving the impression they were shot decades ago and left in a dusty drawer to decrade gracefully.
+Scottish electronic music duo [Boards of Canada][4] used filtered images to evoke images of hazy summer days, colours are bleached or saturated, blurred or tinted giving the impression they were shot decades ago and left in a dusty drawer to degrade gracefully.
 
 Their visual approach matches their music beautifully where snippits of 1970s media are layered with analogue and electronic instruments creating a warm timeless nostalgia.
+
+In contrast 
 
 [4]:http://boardsofcanada.com
 
