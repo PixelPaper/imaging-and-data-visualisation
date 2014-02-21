@@ -31,13 +31,9 @@ Over the next couple of weeks we will look at a wider range of illustrators and 
 
 ###Project 02
 
+####Design a series of three book covers
+
 Choose ONE genre from the list below and research the subject. 
-
-You might want to try to keep the books you choose around the same time frame. So if you choose say Horror, go with a series of classics: Dracula, Frankenstein, Dr Jekyll & Mr Hyde. 
-
-Research the subject exhaustively before you put pen/pencil to paper. 
-
-*Ideally* read the books.
 
 - Horror
 - Romance
@@ -45,6 +41,14 @@ Research the subject exhaustively before you put pen/pencil to paper.
 - Science Fiction & fantasy
 - Childrens classics
 - Alternatively, you could choose one author and look at a range of their books
+
+You might want to try to keep the books you choose around the same time frame. So if you choose say Horror, go with a series of classics: Dracula, Frankenstein, Dr Jekyll & Mr Hyde. 
+
+Research the subject exhaustively before you put pen/pencil to paper. 
+
+*Ideally* read the books.
+
+After you have researched the subject we want you to create at least **three cover designs**. You prodice more if you wish and can include designs for the spine and back if you feel the urge.
 
 You don’t have to be a great artist to achieve great results on this project.
 
