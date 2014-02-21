@@ -48,7 +48,7 @@ Research the subject exhaustively before you put pen/pencil to paper.
 
 *Ideally* read the books.
 
-After you have researched the subject we want you to create at least **three cover designs**. You can produce more if you wish and can include designs for the spine and back if you feel the urge.
+After you have researched the subject we want you to create at least **three cover designs**. You can produce more if you wish and include designs for the spine and back if you feel the urge.
 
 You don’t have to be a great artist to achieve great results on this project.
 
