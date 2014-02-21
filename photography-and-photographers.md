@@ -2,12 +2,12 @@
 
 Richard looked at a number of different illustrators, designers and techniques that covered a wide range of approaches to cover design. 
 
-[Penguin books][20] are the perfect vehicle for illustrating how a theme can be carried across a number of different outputs. The range of covers covered this week focussed on the concept and its execution which is core to any creative output. 
+[Penguin books][20] are the perfect vehicle for illustrating how a idea can be carried across a number of different outputs. The range of covers covered this week focussed on the concept and its execution which is core to any creative output. 
 
 - [Alan Aldridge][26] this Wikipedia entry doesn't carry a lot of information (his own website isn't working at the moment) but you can also see a range of his work on his [Debut Art][26] space. 
-- [Paul Hogarth][22]
+- [Paul Hogarth][22] created numerous covers for Penguin including the excellent [Shakespeare Series][32]
 - [David Gentleman][23] a very prolific illustrator, his work can also be seen on the walls of the London Underground at [Charing Cross][25] 
-- [Coralie Bickford Smith][24]
+- [Coralie Bickford Smith][24] has designed a number of excellent series for Penguin from [Gothic Horror][30] to [Great Food.][31]
 
 Also briefly looked at were:
 - [Jillian Tamaki's][27] covers for the [Penguin Threads][28] series
@@ -23,6 +23,9 @@ Also briefly looked at were:
 [27]:http://jilliantamaki.com/embroidery-textiles/penguin-threads
 [28]:http://www.us.penguingroup.com/pages/classics/penguinthreads.html
 [29]:http://www.sanda-z.com/workspaceopera.html
+[30]:http://cb-smith.com/#/gothic-horror
+[31]:http://cb-smith.com/#/great-food
+[32]:http://www.flickr.com/photos/14168877@N04/sets/72157602196389940
 
 Over the next couple of weeks we will look at a wider range of illustrators and techniques and the importance and application of art direction in the development and execution of concepts.
 
