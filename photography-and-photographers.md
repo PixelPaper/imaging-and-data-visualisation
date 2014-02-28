@@ -16,7 +16,7 @@ We took another look at some book cover designers including…
 - [David Pearson](http://www.typeasimage.com)
 - [Coralie Bickford-Smith](http://vimeo.com/65388307)
 
-#####Home Grown Talent
+####Home Grown Talent
 
 Northern Ireland is coming down with creative talent, the following are a small collection of what's available, see how many others you can find.
 
