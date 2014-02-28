@@ -20,7 +20,7 @@ We took another look at some book cover designers including…
 
 Northern Ireland is coming down with creative talent, the following are a small collection of what's available, see how many others you can find.
 
-- [P.J.Lynch](http://pjlynchgallery.blogspot.co.uk)
+- [P.J. Lynch](http://pjlynchgallery.blogspot.co.uk)
 - [Nigel Peake](http://www.nigelpeake.com)
 - [Oliver Jeffers](http://www.oliverjeffers.com)
 - [Peter Strain](http://www.peterstrain.co.uk)
