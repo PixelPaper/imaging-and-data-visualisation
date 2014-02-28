@@ -1,3 +1,37 @@
+#05 Illustration: Hand to Mouse
+
+We covered a lot of illustrators and designers during today's lecture take a look through the list of names below and reflect on some of those menioned. Make sure you include some of your own influences in your design diary too.
+
+- [Martin O'Neill](http://cutitout.co.uk)
+- [Kate Gibb](http://kategibb.co.uk)
+- [Justin Van Genderen](http://www.2046design.com)
+- [Christoph Niemann](http://www.christophniemann.com)
+- [Mark Brooks](http://www.markbrooksgraphikdesign.com)
+- [Dan Mountford](http://danmountford.tumblr.com)
+- [David McKean](http://www.davemckean-collector.co.uk/page_833188.html) - his own website isn't active at the moment but this one has a great collection of his work.
+
+We took another look at some book cover designers including…
+
+- [Stephen Russ](http://www.baacorsham.co.uk/lightbox/srussintro.htm) make sure you check out Richard Wesrons [Flicker Sets](http://www.flickr.com/photos/acejet170/sets) for Russ' work
+- [David Pearson](http://www.typeasimage.com)
+- [Coralie Bickford-Smith](http://vimeo.com/65388307)
+
+#####Home Grown Talent
+
+Northern Ireland is coming down with creative talent, the following are a small collection of what's available, see how many others you can find.
+
+- [P.J.Lynch](http://pjlynchgallery.blogspot.co.uk)
+- [Nigel Peake](http://www.nigelpeake.com)
+- [Oliver Jeffers](http://www.oliverjeffers.com)
+- [Peter Strain](http://www.peterstrain.co.uk)
+- [Jonathan McHugh](http://beepencil.com)
+
+Finishing off with a couple of (the many successful) IMD graduates…
+
+- [Jordan Henderson](http://blog.taleandteller.com)
+- [Paddy Donnelly](http://lefft.com) check out his earlier [Blog entries](http://iampaddy.com/lifebelow600) to see how his work developed.
+
+
 #04 Illustrating the Cover
 
 Richard looked at a number of different illustrators, designers and techniques that covered a wide range of approaches to cover design. 
