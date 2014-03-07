@@ -1,3 +1,39 @@
+#06 The Art of Art Direction
+
+What is an art director? 
+
+Art directors often begin their careers as designers, or illustrators or photographers. Art directors are generally good at seeing the 'bigger picture'. Where a designer may focus on what looks right for a project an art director will look for what feels right.
+
+Typographer, Jan Tschichold talked about design as:
+>“A principle of identity between content and expression.” 
+
+While art direction was not perceived as a discipline when Tschichold was practicing, this quote perfectly sums up what we now see as its role.
+
+Art direction does not need to be a complex process, it can indeed be very simple. The act of choosing a filter in Instagram is an act of art direction, the choice of filter very often will change the mood of an image, altering the viewers perception of what the image is saying. The effects in this case are the tools the art director uses to deliver the feeling he or she is looking for.
+
+Art direction encompasses all aspects of design, in simple terms it could be about the choice of an appropriate typeface or colour for a food packaging or it can influence the direction of the opening titles to a movie.
+
+Tilden Freeman, Interpretive Designer summed up one meaning of art direction
+
+>"The chief aim of interpretation is not instruction, but provocation."
+
+Movie title sequences are an excellent example of art direction in action. In many ways they set the mood of the movie, building anticipation. Some excellent examples include:
+
+- Saul Bass’ [Vertigo](http://www.artofthetitle.com/title/vertigo)
+- Kyle Cooper’s [Se7en](http://www.artofthetitle.com/title/se7en) – there is an excellent overview of the processes behind the making of this sequence. 
+- Zack Snyder’s [Watchmen](http://io9.com/5167732/easter-eggs-and-missing-parts-in-watchmens-titles)
+- Richard Kenworthy’s [Scott Pilgrim](http://www.artofthetitle.com/title/scott-pilgrim-vs-the-world) and
+- Geefwee Boedoe’s [Monsters Inc](http://www.youtube.com/watch?v=0GXmdUL3BDQ) his website is worth checking out too.
+
+###Project 02.1
+
+Just to shake things up a little we would like to you revist **one** of your book cover designs and redesign it for a different audience or genre. 
+
+So if you have created a series of horror book covers how could one be redesigned to work for nursery school children? Alternatively how would you revisit a romance novel design for a group of hairy Hells Angels.
+
+The choice is up to you just make sure your redesign is the polar opposite of the genre or audience your originals designs are intended for.
+
+
 #05 Illustration: Hand to Mouse
 
 We covered a lot of illustrators and designers during today's lecture take a look through the list of names below and reflect on some of those menioned. Make sure you include some of your own influences in your design diary too.
@@ -12,7 +48,7 @@ We covered a lot of illustrators and designers during today's lecture take a loo
 
 We took another look at some book cover designers including…
 
-- [Stephen Russ](http://www.baacorsham.co.uk/lightbox/srussintro.htm) make sure you check out Richard Wesrons [Flicker Sets](http://www.flickr.com/photos/acejet170/sets) for Russ' work
+- [Stephen Russ](http://www.baacorsham.co.uk/lightbox/srussintro.htm) make sure you check out Richard Weston’s [Flicker Sets](http://www.flickr.com/photos/acejet170/sets) for Russ' work
 - [David Pearson](http://www.typeasimage.com)
 - [Coralie Bickford-Smith](http://vimeo.com/65388307)
 
