@@ -1,3 +1,52 @@
+#Information Design  & Visual Storytelling
+
+###Project 03 Data Visualisation
+
+For this final project we want you to convert a set of statistics from the link below into something that can be easily understood by as wide an audience as possible.
+
+[Global Death Penalty Statistics](https://docs.google.com/spreadsheet/ccc?key=0AonYZs4MzlZbdGJiUzRwTVhlM25DWDlPdjBmNURjOUE#gid=0)
+
+At this stage research the subject as much as you can to investigate different approaches to data visualisation.
+
+A few contemporary visualisations worth checking out are:
+
+- [tweetping.net](http://tweetping.net)
+- [How Different Groups Spend Their Day](www.nytimes.com//interactive/2009/07/31/business/20080801-metrics-graphic.html?hp)
+- [The New York Times Innovation Portfolio](innovate.whsites.net)
+
+Another look at [Christoph Niemann](http://www.gestalten.tv/motion/christoph-niemann) provided a number of different perspectives on approaches to client briefs. 
+
+###Information Design
+
+From the first marks on cave walls 40,000 years ago to the delivery of complex data in [theguardian.com](http://www.theguardian.com/technology/data-visualisation) today, we have been making sense of the world around us for millennia.
+
+The Sumerians, Eqyptians, Mayans, Chinese and many other ancient cultures communicated through pictographic and logographic systems which grew and evolved into the modern written languages we use today. 
+
+Pictographic systems are still widely used to helping us communicate on a global scale. Airport signage systems are a perfect example where pictographs have to communicate to a diverse range of cultures. 
+
+Austrian socialist, [Otto Neurath](http://www.aiga.org/neurath-bliss-and-the-language-of-the-pictogram) developed a visual language of pictograms which he used to make sense of complex issues.
+
+Neurath along with [Gerd Arntz](http://www.gerdarntz.org) developed the International System of TYpographic Picture Education or [Isotype](http://www.designhistory.org/Symbols_pages/isotype.html).
+
+These became the foundations for the development of pictographic systems which have to work daily for a worldwide audience. Examples include road signage, airport directional systems and classics such as those created for the 1972 Summer Olympics in Munich by [Ulm School of Design](http://en.wikipedia.org/wiki/Ulm_School_of_Design) co-founder [Otl Aicher](http://1972municholympics.co.uk/otl_aicher.php)
+
+Taking a step back in time we can see how the human race has tried to make sense of the world arounfd them through a multitude of visual interpretations. The earliest maps of the earth such as [Theatre of the World](http://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum) illustrated just how much of the world remained largely unexplored. Looking beyond the earth, the stars and planets have been a constant source of interest and mystery.
+
+The Library of Congress’ [The Heavens](http://www.loc.gov/exhibits/world/heavens.html) collection depicts a multitude of views and theories on the skies.
+
+###Visual Narratives
+
+Where cave paintings marked mans first attempts of depicting what he saw around him through pictograms, they also served as visual narratives depicting hunting scenes or events. 
+
+As legendary cartoonist Will Eisner stated,
+
+>“The story form is a vehicle for conveying information in an easily absorbed manner.”
+
+Visuall narratives have allowed humankind to communicate for millennia. Eisner's excellent book [Graphic Storytelling and Visual Narrative](http://www.amazon.co.uk/gp/product/039333127X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=039333127X&linkCode=as2&tag=eleventhirty-21)
+
+
+
+
 #06 The Art of Art Direction
 
 What is an art director? 
