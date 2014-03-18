@@ -42,7 +42,11 @@ As legendary cartoonist Will Eisner stated,
 
 >“The story form is a vehicle for conveying information in an easily absorbed manner.”
 
-Visuall narratives have allowed humankind to communicate for millennia. Eisner's excellent book [Graphic Storytelling and Visual Narrative](http://www.amazon.co.uk/gp/product/039333127X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=039333127X&linkCode=as2&tag=eleventhirty-21)
+Visuall narratives have allowed humankind to communicate for millennia. Eisner's excellent book, [Graphic Storytelling and Visual Narrative](http://www.amazon.co.uk/gp/product/039333127X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=039333127X&linkCode=as2&tag=eleventhirty-21) is a perfect introduction to visual storytelling. 
+
+Another artist well worth looking at is [Scott McCloud](http://scottmccloud.com) and a great starting point has to be his [TED Talk](http://www.ted.com/talks/scott_mccloud_on_comics). His book, [Understanding Comics](http://www.amazon.co.uk/gp/product/006097625X/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=006097625X&linkCode=as2&tag=eleventhirty-21) is a must read.
+
+Obvious forms of visual narratives are [graphic novels](http://en.wikipedia.org/wiki/Graphic_novel) where the image plays the lead in the storytelling. 
 
 
 
