@@ -1,3 +1,13 @@
+#The Visual Language of Data
+
+Looking at a number of contemporary approaches to visualising data we focussed on a few key figures who are masters in this area.
+
+David McCandless is an author, data-journalist and information designer who works in print, web and television. His website [Information is Beautiful](http://www.informationisbeautiful.net) explores a multitude of information sets, reinterpreting very complex data and presenting in ways that make the content very accessible.
+
+[Nicholas Felton](http://feltron.com) has a very distinctive style which grew from a personal project, the Feltron Annual Report. [Daytum](http://daytum.com), created by Felton allows users to gather their own data and see it visualised.
+
+Turning data into an art form, [Brendan Dawes](http://brendandawes.com) pushes the boundaries of data visualisation, creating images of great beauty and complexity from information.
+
 #Information Design  & Visual Storytelling
 
 ###Project 03 Data Visualisation
