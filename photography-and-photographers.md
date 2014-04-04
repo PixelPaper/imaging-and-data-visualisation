@@ -1,3 +1,32 @@
+#Meet Edward Tufte
+
+Edward Tufte is one of the founding fathers of information graphics and data visualisation. 
+
+Author of a number of publications on information design his most notable books are:
+- [The Visual Display of Quantitative Information](http://www.amazon.co.uk/gp/product/0961392142/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0961392142&linkCode=as2&tag=eleventhirty-21)
+- [Envisioning Information](http://www.amazon.co.uk/gp/product/0961392118/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0961392118&linkCode=as2&tag=eleventhirty-21)
+- [Visual Explanations: Images and Quantities, Evidence and Narrative](http://www.amazon.co.uk/gp/product/0961392126/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0961392126&linkCode=as2&tag=activeight-21)
+- [Beautiful Evidence](http://www.amazon.co.uk/gp/product/0961392177/ref=as_li_ss_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=0961392177&linkCode=as2&tag=activeight-21)
+
+Critical of PowerPoint use as a guidance rather than enlightening tool Tufte focussed on the way PowerPoint was used by NASA engineers in the events leading up to the [Space Shuttle Challenger disaster](http://en.wikipedia.org/wiki/Space_Shuttle_Challenger_disaster). The software is designed to persuade rather than inform, burying information details in crowded slides using bullets points with tiny type. The result for Challenger was catastrophic, vital data on the effect of low temperatures on O-ring integrity was overlooked, the launch was given the go ahead, one of the rockets developed a leak, exploded and all seven crew members tragically died.
+
+He coined the term ‘chartjunk’ referring to displays of information that are either non-informative or obscure the information it is meant to present.
+
+>Sometimes decorations can help editorialize about the substance of the graphic. But it's wrong to distort the data measures—the ink locating values of numbers—in order to make an editorial comment or fit a decorative scheme.
+
+Tufte invented [Sparklines](http://en.wikipedia.org/wiki/Sparkline), which are very small line charts drawn without axes and coordinates used to present the general shape of variation in forms of measurement within a small space.
+
+###Big Data
+
+Making sense of data and the constant barrage of information we are subjected to on a daily basis is becoming the focus for many designers and developers who look to different methods and disciplines to help us understand and interact with this information.
+
+Composer [JoAnn Kuchera-Morin](http://www.create.ucsb.edu/~musjkm), Professor of Media Arts and Technology has developed the [Allosphere Research Facility](http://www.allosphere.ucsb.edu/). The Allosphere is an immersive environment where scientists, engineeers, designers, etc are able to explore complex data in a virtual 3D environment.
+
+[Aaron Koblin](http://www.aaronkoblin.com/work.html), digital media artist and Creative Director of the Data Arts Team at Google is perhaps best known for his innovative uses of data visualisation and crowdsourcing.
+
+A notable projects well worth looking at are Arcade Fire’s [Wilderness Downtown](http://www.thewildernessdowntown.com) the [Johnny Cash Project](http://www.thejohnnycashproject.com) and [Unnumbered Sparks](http://www.unnumberedsparks.com) the wonderful collaborative project with [Janet Echelman](http://www.echelman.com).
+
+
 #Guest Lecturer – Jonny Campbell
 
 This weeks lecture was hosted by [Jonny Campbell](http://jonnycampbell.com) creative lead at [Cargo](http://www.cargo.io) and [Brewbot](http://www.brewbot.io).
