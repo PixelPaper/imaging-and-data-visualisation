@@ -1,3 +1,7 @@
+#Guest Lecturer – Jonny Campbell
+
+This weeks lecture was hosted by [Jonny Campbell](http://jonnycampbell.com) creative lead at [Cargo](http://www.cargo.io) and [Brewbot](http://www.brewbot.io).
+
 #The Visual Language of Data
 
 Looking at a number of contemporary approaches to visualising data we focussed on a few key figures who are masters in this area.
