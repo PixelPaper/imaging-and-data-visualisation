@@ -16,6 +16,8 @@ He coined the term ‘chartjunk’ referring to displays of information that are
 
 Tufte invented [Sparklines](http://en.wikipedia.org/wiki/Sparkline), which are very small line charts drawn without axes and coordinates used to present the general shape of variation in forms of measurement within a small space.
 
+Follow the link for a clear visual for the [Fukushima Nuclear Accident Infographic](http://www.rchoetzlein.com/theory/wp-content/uploads/2011/03/fukushima7.jpg)
+
 ###Big Data
 
 Making sense of data and the constant barrage of information we are subjected to on a daily basis is becoming the focus for many designers and developers who look to different methods and disciplines to help us understand and interact with this information.
